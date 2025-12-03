@@ -164,7 +164,7 @@ export default function LetterPage({ setCurrentPage }) {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 2.5, duration: 0.8 }}
         >
-          Continue... 
+          Forgive ♡... 
         </motion.button>
       </motion.div>
     </div>
