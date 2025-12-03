@@ -203,7 +203,7 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.6 }}
                       className="text-lg text-purple-200 leading-relaxed"
                     >
-                      Just like my love for you. I promise to cherish you every single day, and never take your
+                      Just like my care for you. I promise to cherish you every single day, and never take your
                       beautiful heart for granted again.💖
                     </motion.p>
                     <motion.p
